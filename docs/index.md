@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+Some code and problems solved in [Mathematica](https://www.wolfram.com/mathematica/) and [R](https://www.r-project.org) in relation to:
 
-You can use the [editor on GitHub](https://github.com/danielfelipegil/mathematical-statistics/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danielfelipegil/mathematical-statistics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Probability, random variables, probability distributions and probability models, and their relevance to statistical inference.
+* Standard probability models formulation. 
+* Properties of probability distributions, moment generating functions, variable transformations and conditional expectations to analyse common random variables and probability models.
+* Basic ideas of estimation and hypothesis testing
+* fit probability models to data by both estimating and testing hypotheses about model parameters.
+* Underlying statistical theory of linear models and the limitations of such models.
+* Fit linear models to data using R and interpret the results.
+* Prediction (or classification) qualitative responses.
+* Bayesian statistics.
+* EM algorithm in simple settings.
